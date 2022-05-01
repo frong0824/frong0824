@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @frong0824
 - 👀 Spatial analysis. 
 - 📫 Ocean big data analysis. 
 
